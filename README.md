@@ -8,7 +8,7 @@
 - Inicio: 28-MAY-2016
 - Dirección: https://goo.gl/maps/98vwAt9NZMU2
 - Contenido: http://www.sistemasuni.edu.pe/dpdf/Workshops/WORKSHOP%20PERSISTENCIA.pdf
-- Pagina: http://gcoronelc.github.io/SISTUNI_JAVA_CLOUD_001/
+- Pagina: http://superveliz.github.io/JAVA_PERSISTENCIA_001/
 
 
 # DOCENTE
